@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192913B7-F6C2-42D1-AB40-DE5A0450F230}|Grade_Management_system\\Grade_Management_system.csproj|c:\\users\\pc\\source\\repos\\grade_management_system\\grade_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192913B7-F6C2-42D1-AB40-DE5A0450F230}|Grade_Management_system\\Grade_Management_system.csproj|solutionrelative:grade_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192913B7-F6C2-42D1-AB40-DE5A0450F230}|Grade_Management_system\\Grade_Management_system.csproj|c:\\users\\pc\\source\\repos\\grade_management_system\\grade_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{192913B7-F6C2-42D1-AB40-DE5A0450F230}|Grade_Management_system\\Grade_Management_system.csproj|solutionrelative:grade_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192913B7-F6C2-42D1-AB40-DE5A0450F230}|Grade_Management_system\\Grade_Management_system.csproj|c:\\users\\pc\\source\\repos\\grade_management_system\\grade_management_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192913B7-F6C2-42D1-AB40-DE5A0450F230}|Grade_Management_system\\Grade_Management_system.csproj|solutionrelative:grade_management_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\Grade_Management_system\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Grade_Management_system\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\Grade_Management_system\\Form1.Designer.cs",
+              "RelativeToolTip": "Grade_Management_system\\Form1.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBABAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T14:56:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\Grade_Management_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Grade_Management_system\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\Grade_Management_system\\Form1.cs",
+              "RelativeToolTip": "Grade_Management_system\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T14:58:12.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\Grade_Management_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Grade_Management_system\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Grade_Management_system\\Grade_Management_system\\Form1.cs [Design]",
+              "RelativeToolTip": "Grade_Management_system\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T14:54:18.206Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
